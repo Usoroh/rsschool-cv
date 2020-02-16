@@ -1,13 +1,13 @@
-#Usoroh Paius
-###You can contact me at:
-*paius.usoroh@gmail.com
-*vk.com/usenpius
-##My goals:
+# Usoroh Paius
+### You can contact me at:
+* paius.usoroh@gmail.com
+* vk.com/usenpius
+##M y goals:
 To become a great developer
-##My skills:
-*Analysis
-*Communication
-*Tech
+## My skills:
+* Analysis
+* Communication
+* Tech
 Code example:
 ```javascript
 function fancyAlert(arg) {
@@ -16,10 +16,10 @@ function fancyAlert(arg) {
   }
 }
 ```
-##Experience: 
+## Experience: 
 Alem school projects
-##Education:
-*KIMEP
-*KBTU
-##English:
-*Upper Intermediate
+## Education:
+* KIMEP
+* KBTU
+## English:
+* Upper Intermediate
