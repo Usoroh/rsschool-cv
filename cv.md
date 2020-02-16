@@ -19,7 +19,7 @@ function fancyAlert(arg) {
 ## Experience: 
 Alem school projects
 ## Education:
-* KIMEP
-* KBTU
+* KIMEP, International Law
+* KBTU, International Law
 ## English:
 * Upper Intermediate
