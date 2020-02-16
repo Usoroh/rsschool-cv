@@ -2,7 +2,7 @@
 ### You can contact me at:
 * paius.usoroh@gmail.com
 * vk.com/usenpius
-##M y goals:
+## My goals:
 To become a great developer
 ## My skills:
 * Analysis
